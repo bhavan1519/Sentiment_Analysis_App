@@ -1,12 +1,7 @@
-<<<<<<< HEAD
 streamlit
 pandas
+numpy
+scikit-learn
 PyPDF2
+nltk
 textblob
-=======
-streamlit
-pandas
-PyPDF2
-textblob
->>>>>>> e33aa8f99df9034d7d0e2fce500bc2e452143a64
-plotly
