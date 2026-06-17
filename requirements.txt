@@ -1,7 +1,8 @@
 streamlit
 pandas
 numpy
-scikit-learn
 PyPDF2
-nltk
 textblob
+nltk
+scikit-learn
+plotly
