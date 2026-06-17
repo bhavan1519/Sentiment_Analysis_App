@@ -51,11 +51,7 @@ Run the Streamlit app:
 streamlit run streamlit_app.py
 ```
 
-<<<<<<< HEAD
-Open the URL shown in the terminal (usually `http://localhost:8501`) and upload a PDF file containing product reviews.
-=======
 Open the URL and upload a PDF file containing product reviews.
->>>>>>> e33aa8f99df9034d7d0e2fce500bc2e452143a64
 
 ## How It Works
 
@@ -72,8 +68,5 @@ Open the URL and upload a PDF file containing product reviews.
 
 ## License
 
-<<<<<<< HEAD
-This project does not include a license file. Feel free to add one if you want to share or distribute it.
-=======
 This project is developed for academic purposes.
->>>>>>> e33aa8f99df9034d7d0e2fce500bc2e452143a64
+
